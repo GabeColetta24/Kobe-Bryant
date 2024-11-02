@@ -124,6 +124,10 @@ hr {
     margin-bottom: 20px;
 }
 
+#accolades {
+    padding: 0 36px;
+}
+
 /* Add space between videos */
 #videos {
     display: flex;
