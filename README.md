@@ -31,3 +31,15 @@ This is the third section of my home page. In this section I wanted to give user
 ###Things you didn't know about Kobe Bryant
 
 This is the final section of my home page. This was intended to give users an insight into who Kobe was off the basketball court, before, during and after his basketball career.
+
+###The Footer
+
+The Footer section includes links to four of the most popular social media home pages. I used the home pages as I don't have any social media accounts for this website. The footer is valuable to the user as it encourages them to keep connected via social media.
+
+###Gallery
+
+I created the Gallery page (gallery.html) to provide the user with various iconic photos from Kobe's life. This section is valuable to the user as it gives visual proof of Kobe's successful life.
+
+###The Sign Up Page
+
+This page allows the user to sign up to receive daily Kobe Bryant facts and motivational quotes. The user will be asked to submit their full name and email address.
