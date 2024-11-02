@@ -123,6 +123,7 @@ hr {
     margin-bottom: 20px;
 }
 
+/* Add space between videos */
 #videos {
     display: flex;
     justify-content: space-between;
