@@ -20,7 +20,7 @@ body {
 
 /* Header */
 header {
-    background-color: #ffffff;
+    background-color: #ffd700;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -60,7 +60,7 @@ h1 {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: #ffffff;
+    background-color: #ffd700;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -90,6 +90,7 @@ main {
     /* Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
+    background-color: #cbc3e3;
 }
 
 #content {
@@ -193,6 +194,7 @@ hr {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    background-color: #ffd700;
 }
 
 #social-networks i {
