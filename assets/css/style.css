@@ -118,7 +118,15 @@ hr {
     margin: 5px 0;
 }
 
+#content > div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
 
+#videos {
+    display: flex;
+    justify-content: space-between;
+}
 
 /* Form */
 #signup {
