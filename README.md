@@ -53,7 +53,7 @@ I would like to add a table showcasing Kobe's NBA career stats on the home page.
 ###Validator Testing
 
 HTML
-No errors returned when passing through the official a=[W3C validator] 
+No errors returned when passing through the official [W3C validator] ()
 
 ##Deployment
 
