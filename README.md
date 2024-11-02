@@ -12,6 +12,8 @@ Featured on all three pages, the full responsive navigation bar includes links t
 
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
+[picture of navbar] (/workspace/Kobe-Bryant/assets/images/Screenshot 2024-11-02 at 20.43.55.png)
+
 ### The Hero Image
 
 I used a picture of an iconic Kobe Bryant dunk as my hero image to draw users in when they first open the site.
@@ -53,7 +55,10 @@ I would like to add a table showcasing Kobe's NBA career stats on the home page.
 ### Validator Testing
 
 HTML
-No errors returned when passing through the official [W3C validator] ()
+No errors returned when passing through the official [W3C validator] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fgabecoletta24.github.io%2FKobe-Bryant%2F)
+
+CSS
+No errors returned when passing through the official [Jigsaw validator] (https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgabecoletta24.github.io%2FKobe-Bryant%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ## Deployment
 
@@ -61,15 +66,15 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
 From the source section drop-down menu, select the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here - 
+The live link can be found here - https://gabecoletta24.github.io/Kobe-Bryant/
 
 ## Credit
 
 ### Content
-All information and stats on the Home page was taken from the Kobe Bryant Wikipedia page, Brittanica and my own personal knowledge.
-The navbar icon and icons in the footer were taken from Font Awesome.
+All information and stats on the Home page was taken from the [Kobe Bryant Wikipedia page] (https://en.wikipedia.org/wiki/Kobe_Bryant), [Brittanica] (https://www.britannica.com/topic/Los-Angeles-Lakers) and my own personal knowledge.
+The navbar icon and icons in the footer were taken from [Font Awesome] (https://fontawesome.com/).
 
 ### Media
 All images on my website including the favicon, hero image, galleery images and signup page background image were taken from Google Images.
 
-The videos on the home page were taken from Youtube. I got the instructions to add videos from this YouTube video, which gave me a link to this site.
+The video on the home page was taken from Youtube. I got the instructions to add videos from this [YouTube video] (), which gave me a link to [this site] (). 
