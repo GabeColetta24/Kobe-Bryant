@@ -43,3 +43,22 @@ I created the Gallery page (gallery.html) to provide the user with various iconi
 ###The Sign Up Page
 
 This page allows the user to sign up to receive daily Kobe Bryant facts and motivational quotes. The user will be asked to submit their full name and email address.
+
+###Features I would like to add in the future
+
+I would like to add a table showcasing Kobe's NBA career stats on the home page.
+
+##Testing
+
+##Deployment
+
+##Credit
+
+###Content
+All information and stats on the Home page was taken from the Kobe Bryant Wikipedia page, Brittanica and my own personal knowledge.
+The navbar icon and icons in the footer were taken from Font Awesome.
+
+###Media
+All images on my website including the favicon, hero image, galleery images and signup page background image were taken from Google Images.
+
+The videos on the home page were taken from Youtube. I got the instructions to add videos from this YouTube video, which gave me a link to this site.
