@@ -12,55 +12,55 @@ Featured on all three pages, the full responsive navigation bar includes links t
 
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-![picture of navbar](assets/images/navbar-screenshot.png)
+![picture of navbar](assets/documentation/navbar-ss.png)
 
 ### The Hero Image
 
 I used a picture of an iconic Kobe Bryant dunk as my hero image to draw users in when they first open the site.
 
-![Hero Image](assets/images/hero-image-ss.png)
+![Hero Image](assets/documentation/hero-image-ss.png)
 
 ### Who is Kobe Bryant?
 
 This is the opening section of my home page. This was intended to give users an overview of who Kobe Bryant was on and off the basketball court.
 
-![Opening section](assets/images/opening-section-ss.png)
+![Opening section](assets/documentation/opening-section-ss.png)
 
 ### Early Life
 
 This is the second section of my home page. This was intended to give users an insight into Kobe's upbringing and explain how he started playing basketball and made his way to the NBA.
 
-![Second section](assets/images/second-section-ss.png)
+![Second section](assets/documentation/second-section-ss.png)
 
 ### Professional Career & Accolades
 
 This is the third section of my home page. In this section I wanted to give users an overview of what Kobe achieved throughout his basketball career both in the NBA and internationally. I also added a YouTube video link in this section in case users wanted to watch the highlights of one of his most iconic games.
 
-![Third section](assets/images/third-section-ss.png)
+![Third section](assets/documentation/third-section-ss.png)
 
 ### Things you didn't know about Kobe Bryant
 
 This is the final section of my home page. This was intended to give users an insight into who Kobe was off the basketball court, before, during and after his basketball career.
 
-![Final section](assets/images/final-section-ss.png)
+![Final section](assets/documentation/final-section-ss.png)
 
 ### The Footer
 
 The Footer section includes links to four of the most popular social media home pages. I used the home pages as I don't have any social media accounts for this website. The footer is valuable to the user as it encourages them to keep connected via social media.
 
-![Footer](assets/images/footer-ss.png)
+![Footer](assets/documentation/footer-ss.png)
 
 ### Gallery
 
 I created the Gallery page (gallery.html) to provide the user with various iconic photos from Kobe's life. This section is valuable to the user as it gives visual proof of Kobe's successful life.
 
-![Gallery page](assets/images/gallery-ss.png)
+![Gallery page](assets/documentation/gallery-ss.png)
 
 ### The Sign Up Page
 
 This page allows the user to sign up to receive daily Kobe Bryant facts and motivational quotes. The user will be asked to submit their full name and email address.
 
-![Sign up page](assets/images/signup-ss.png)
+![Sign up page](assets/documentation/signup-ss.png)
 
 ### Features I would like to add in the future
 
